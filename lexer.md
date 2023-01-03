@@ -1,4 +1,4 @@
-# Monky-Interpreter
+# Monkey-Interpreter
 
 
 ## lexer

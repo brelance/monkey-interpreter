@@ -42,8 +42,8 @@ pub enum KeyWords {
 
 #[derive(PartialEq, Eq, Debug)]
 pub struct Token {
-    token_type: KeyWords,
-    literal: String,
+    pub token_type: KeyWords,
+    pub literal: String,
 }
 
 impl Token {
